@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SKies2003.SKies2003)](https://github.com/SKies2003)
 ![@gsky2003's Holopin board](https://holopin.me/gsky2003)
-(https://holopin.io/@gsky2003)
