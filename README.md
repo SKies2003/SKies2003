@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Gagan Singhal! 👋
 
 <!--
 **GSky2003/GSky2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
